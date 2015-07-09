@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="UpMarqueeTextView">
+        <attr name="marquee_bg_color" format="reference"/>
+        <attr name="marquee_text_color" format="reference"/>
+    </declare-styleable>
+
+</resources>
